@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Class constructor\Class constructor\obj\Debug\netcoreapp3.1\Class constructor.csproj.CoreCompileInputs.cache
